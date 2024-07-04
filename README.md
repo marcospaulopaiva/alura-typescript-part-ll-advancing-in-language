@@ -21,11 +21,11 @@ alt="#" width="150" height="150">
 </p>
 <p align="left">
 <strong>Aulas:</strong></br> 
-Aula 1 - Elaborando uma solução de view - 38 min
-Aula 2 - Herança e reaproveitamento de código - 39 min
-Aula 3 - Lapidando nosso código - 28 min
-Aula 4 - Visibilidade de métodos e Enumeration - 40 min
-Aula 5 - TSC e StrictNullChecks - 31 min
+Aula 1 - Elaborando uma solução de view - 38 min</br> 
+Aula 2 - Herança e reaproveitamento de código - 39 min</br> 
+Aula 3 - Lapidando nosso código - 28 min</br> 
+Aula 4 - Visibilidade de métodos e Enumeration - 40 min</br> 
+Aula 5 - TSC e StrictNullChecks - 31 min</br> 
 </p>
 <p align="left">
   🐙 Linguagens: Javascript, Typescript
